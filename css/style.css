@@ -1,0 +1,211 @@
+ /* ============ COMMON STYLES ============ */
+  ul,
+  ol {
+  list-style-type: none;
+  }
+
+  a {
+      color: inherit;
+      text-decoration: none;
+  }
+
+  button {
+      cursor: pointer;
+  }
+
+  body {
+      font-family: "Roboto", sans-serif;
+      color: #434455;
+      background-color: #ffffff;
+  }
+
+
+
+  .section-title {
+      font-weight: 700;
+      font-size: 36px;
+      line-height: 1.11;
+      letter-spacing: 0.02em;
+      text-align: center;
+      text-transform: capitalize;
+      color: #2e2f42;
+  }
+
+ /* ============ HEADER STYLES ============ */
+  .page-logo {
+      font-family: "Raleway", sans-serif;
+      font-weight: 700;
+      font-size: 18px;
+      line-height: 1.17;
+      letter-spacing: 0.03em;
+      text-transform: uppercase;
+      color: #4d5ae5;
+  }
+
+  .accent-color-header {
+      color: #2e2f42;
+  }
+
+  .accent-color-header:hover,
+  .accent-color-header:focus {
+      color: #404bbf;
+  }
+
+  .menu-link {
+      font-weight: 500;
+      font-size: 16px;
+      line-height: 1.5;
+      letter-spacing: 0.02em;
+      color: #2e2f42;
+  }
+
+  .menu-link:hover,
+  .menu-link:focus {
+      color: #404bbf;
+  }
+
+  .contact-block {
+      font-style: normal;
+  }
+
+  .contact-list-link {
+      font-weight: 400;
+      font-size: 16px;
+      line-height: 1.5;
+      letter-spacing: 0.02em;
+      color: #434455;
+  }
+
+  .contact-list-link:hover,
+  .contact-list-link:focus {
+      color: #404bbf;
+  }
+
+ /* ============ HERO STYLES ============ */
+
+  .hero {
+      background-color: #2e2f42;
+  }
+
+  .main-title {
+      font-size: 56px;
+      line-height: 1.07;
+      letter-spacing: 0.02em;
+      text-align: center;
+      color: #ffffff;
+  }
+
+  .order-service-button {
+      font-family: "Roboto", sans-serif;
+      font-weight: 500;
+      font-size: 16px;
+      line-height: 1.5;
+      letter-spacing: 0.04em;
+      color: #ffffff;
+
+      background: #4d5ae5;
+  }
+
+  .order-service-button:hover,
+  .order-service-button:focus {
+      background: #404bbf;
+  }
+
+ /* ============ FEATURES STYLES ============  */
+
+  .features-list-title {
+      font-weight: 500;
+      font-size: 20px;
+      line-height: 1.2;
+      letter-spacing: 0.02em;
+      color: #2e2f42;
+  }
+
+  .features-item-text {
+
+      font-size: 16px;
+      line-height: 1.5;
+      letter-spacing: 0.02em;
+      color: #434455;
+  }
+
+ /* ============ OUR TEAM STYLES ============ */
+
+  .our-team {
+      background-color: #F4F4FD;
+  }
+
+  .our-team-list-item {
+      background-color: #FFFFFF;
+  }
+
+  .our-team-list-fullname {
+      font-weight: 500;
+      font-size: 20px;
+      line-height: 1.2;
+      letter-spacing: 0.02em;
+      text-align: center;
+      color: #2e2f42;
+  }
+
+  .our-team-list-position {
+      font-size: 16px;
+      line-height: 1.5;
+      letter-spacing: 0.02em;
+      text-align: center;
+      color: #434455;
+  }
+
+ /* ============ OUR PORTFOLIO STYLES ============ */
+
+  .portfolio-list-item {
+      background: #ffffff;
+  }
+
+  .portfolio-item-name {
+      font-weight: 500;
+      font-size: 20px;
+      line-height: 1.2;
+      letter-spacing: 0.02em;
+      text-align: center;
+      color: #2e2f42;
+  }
+
+  .portfolio-item-text {
+      font-size: 16px;
+      line-height: 1.5;
+      letter-spacing: 0.02em;
+      color: #434455;
+  }
+
+ /* ============ FOOTER STYLES ============ */
+
+  .page-footer {
+      background-color: #2e2f42;
+  }
+
+  .page-logo {
+      font-family: "Raleway", sans-serif;
+      font-weight: 700;
+      font-size: 18px;
+      line-height: 1.17;
+      letter-spacing: 0.03em;
+      text-transform: uppercase;
+      color: #4d5ae5;
+  }
+
+  .accent-color-footer {
+      color: #f4f4fd;
+  }
+
+  .accent-color-footer:hover,
+  .accent-color-footer:focus {
+      color: #404bbf;
+  }
+
+  .footer-text {
+      font-size: 16px;
+      line-height: 1.5;
+      letter-spacing: 0.02em;
+      color: #F4F4FD;
+  }
